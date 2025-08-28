@@ -1,0 +1,43 @@
+.main {
+    background-color: #f8fafc;
+}
+header {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+.dashboard-header {
+    background: linear-gradient(90deg,#ff4b4b,#ff6b6b);
+    padding: 1.5em;
+    border-radius: 10px;
+    text-align:center;
+    color:white;
+    margin-bottom:1.5em;
+}
+.dashboard-footer {
+    background: #f1f5f9;
+    padding: 1em;
+    text-align: center;
+    color: #475569;
+    margin-top: 2em;
+    border-top: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+.stButton>button {
+    background-color: #ff4b4b;
+    color:white;
+    border-radius:10px;
+    padding:0.6em 1.2em;
+    font-weight:bold;
+}
+.stButton>button:hover {
+    background-color: #ff6b6b;
+    color:white;
+}
+.result-box {
+    padding:1em;
+    border-radius:12px;
+    margin-top:1em;
+    font-size:1.1em;
+}
